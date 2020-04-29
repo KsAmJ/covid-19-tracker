@@ -6,7 +6,7 @@ A Flutter project for COVID-19 Cases Tracker Around the world.
 <img src="screenshots/dashboard.png" width="400">
 
 ## Author
-Developed By: Khaled Ahmed
+Developed By: Khaled Ahmed (KsAmJ)
 
 - [Twitter](http://twitter.com/KsAmJ)
 - [Instagram](http://instagram.com/KsAmJ)

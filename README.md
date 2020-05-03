@@ -3,7 +3,7 @@
 A Flutter project for COVID-19 Cases Tracker Around the world.
 
 ## Screenshot
-<img src="screenshots/dashboard.png" width="400">
+<img src="screenshots/stream3.png" width="400">
 
 ## Author
 Developed By: Khaled Ahmed (KsAmJ)

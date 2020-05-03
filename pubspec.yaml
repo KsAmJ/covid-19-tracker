@@ -30,6 +30,7 @@ dependencies:
   http: ^0.12.0+4
   country_pickers: ^1.2.1
   built_value: ^7.1.0
+  intl: ^0.16.1
 
 dev_dependencies:
   flutter_test:
